@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TerrenceLCareyJr
-- 👀 I’m interested in ... Learning as much for Web Development. 
-- 🌱 I’m currently learning ... HTML, CSS, and JS. 
-- 💞️ I’m looking to collaborate on ... Websites, maybe Web Apps. 
-- 📫 How to reach me ... Through here, I guess. I'm not fully in tune with how GitHub actually works. I do have a fb. 
+- 👀 I’m interested in ... Being the best web developer that I can be. This means, I'll do what I can to become that.
+- 🌱 I’m currently learning ... JS. I've already learned about HTML and CSS. 
+- 💞️ I’m looking to collaborate on ... Websites. Someday, web apps. 
+- 📫 How to reach me ... By, getting closer. LoL! I mean, I do have a cell and emails. I'm also on social media. 
 
 <!---
 TerrenceLCareyJr/TerrenceLCareyJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
